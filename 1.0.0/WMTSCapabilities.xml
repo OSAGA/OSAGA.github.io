@@ -4,7 +4,7 @@
   <ows:ServiceIdentification>
     <ows:ServiceType>OGC WMTS</ows:ServiceType>
     <ows:ServiceTypeVersion>1.0.0</ows:ServiceTypeVersion>
-    <ows:Title>Servicios OGC WMTS de Barranquilla</ows:Title>
+    <ows:Title>Servicios OGC WMTS de castilla</ows:Title>
     <ows:Abstract xml:lang="es">Servicio OGC WMTS de castilla</ows:Abstract>
     <ows:Keywords>
       <ows:Keyword>castilla</ows:Keyword>
